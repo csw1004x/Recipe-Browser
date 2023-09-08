@@ -1,0 +1,22 @@
+{
+  "name": "My Amaazing Catalogue!",
+  "meals": [
+    {
+      "meal name": "Ramen",
+      "amount eaten": 1,
+      "ingredients": [
+        "Broth",
+        "Noodles",
+        "Chasu"
+      ]
+    },
+    {
+      "meal name": "Corn salad",
+      "amount eaten": 0,
+      "ingredients": [
+        "Corn",
+        "Salad"
+      ]
+    }
+  ]
+}
